@@ -31,6 +31,7 @@ public class Example3 {
 
         String encryptedText = caesarCipher(text, key, false);
         System.out.println("Text after conversion: " + encryptedText);
+        in.nextLine();
 
         boolean validInput = false;
         while (!validInput){

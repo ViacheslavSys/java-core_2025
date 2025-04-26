@@ -8,13 +8,13 @@ public class Main {
         int n = in.nextInt();
         in.close();
 
-        // Если n == 0, решений нет
+
         if (n == 0) {
             System.out.println(-1);
             return;
         }
 
-        // Поиск минимальных a, b, c
+
         for (int a = 1; a <= 100; a++) {
             for (int b = a + 1; b <= 100; b++) {  // b > a
                 for (int c = b + 1; c <= 100; c++) {  // c > b
@@ -26,7 +26,7 @@ public class Main {
             }
         }
 
-        // Если ничего не нашли, выводим -1
+
         System.out.println(-1);
     }
 }

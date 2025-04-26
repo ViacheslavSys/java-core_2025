@@ -1,4 +1,4 @@
-package timus.task__1820;
+package timus.task_1820;
 
 import java.util.Scanner;
 

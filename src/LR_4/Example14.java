@@ -1,4 +1,4 @@
-package LR4;
+package LR_4;
 
 public class Example14 {
     public static void m(int x) throws ArithmeticException {

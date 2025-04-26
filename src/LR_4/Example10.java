@@ -1,4 +1,4 @@
-package LR4;
+package LR_4;
 
 public class Example10 {
     public static int m() {

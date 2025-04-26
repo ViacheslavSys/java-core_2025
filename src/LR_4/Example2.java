@@ -1,4 +1,4 @@
-package LR4;
+package LR_4;
 
 public class Example2 {
     public static void main(String[] args) {

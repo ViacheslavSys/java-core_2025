@@ -115,7 +115,6 @@ class Circle1 extends Shape1 {
     }
 }
 
-// Класс Square (Квадрат)
 class Square1 extends Shape1 {
     private double side;
 
@@ -134,7 +133,6 @@ class Square1 extends Shape1 {
     }
 }
 
-// Класс Triangle (Треугольник)
 class Triangle1 extends Shape1 {
     private double a, b, c;
 
