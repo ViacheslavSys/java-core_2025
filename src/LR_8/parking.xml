@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<parking>
+            
+    
+    <automobile>
+                        
+        
+        <brand>Ford</brand>
+                        
+        
+        <model>Focus</model>
+                        
+        
+        <year>2003</year>
+                        
+        
+        <license>F245AA</license>
+                    
+    
+    </automobile>
+        
+    
+
+</parking>
